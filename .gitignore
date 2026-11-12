@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+*.env
+*.pem
+
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Data & Temp storage
+temp_storage/
+data_storage/
+logs/
+.pytest_cache/
+
+# Streamlit config
+.streamlit/secrets.toml

@@ -1,0 +1,25 @@
+date,region,category,product,sales_rep,customer_name,email,phone,units_sold,unit_price,discount,revenue
+2024-01-05,North,Electronics,Laptop Pro,Alice Smith,John Doe,john.doe@example.com,555-0192,5,1200.00,0.05,5700.00
+2024-01-07,South,Furniture,Office Chair,Bob Jones,Jane Miller,jane.m@example.org,555-0143,12,250.00,0.10,2700.00
+2024-01-10,East,Electronics,Smartphone X,Charlie Brown,Robert Davis,rdavis@test.com,555-0188,8,800.00,0.00,6400.00
+2024-01-12,West,Office Supplies,Notebook Pack,Diana Prince,Emily Wilson,ewilson@sample.net,555-0177,50,15.00,0.00,750.00
+2024-01-15,North,Furniture,Standing Desk,Alice Smith,Michael Clark,mclark@domain.com,555-0122,3,600.00,0.15,1530.00
+2024-01-18,South,Electronics,Wireless Headphones,Bob Jones,Sarah Taylor,sarah.t@work.com,555-0165,15,150.00,0.05,2137.50
+2024-01-22,East,Furniture,Ergonomic Stool,Charlie Brown,David Anderson,danderson@mail.org,555-0134,8,180.00,0.00,1440.00
+2024-01-25,West,Electronics,4K Monitor,Diana Prince,Jessica Thomas,jthomas@tech.com,555-0156,4,450.00,0.10,1620.00
+2024-01-28,North,Office Supplies,Mechanical Keyboard,Alice Smith,James Jackson,jjackson@site.io,555-0199,10,110.00,0.00,1100.00
+2024-02-02,South,Office Supplies,Ergonomic Mouse,Bob Jones,Laura White,lwhite@company.com,555-0111,25,45.00,0.05,1068.75
+2024-02-05,East,Electronics,Laptop Pro,Charlie Brown,Daniel Harris,dharris@web.org,555-0144,6,1200.00,0.05,6840.00
+2024-02-08,West,Furniture,Standing Desk,Diana Prince,Megan Martin,mmartin@corp.net,555-0183,5,600.00,0.10,2700.00
+2024-02-12,North,Electronics,Smartphone X,Alice Smith,Christopher Lee,clee@agency.gov,555-0127,10,800.00,0.00,8000.00
+2024-02-15,South,Furniture,Office Chair,Bob Jones,Amanda Perez,aperez@store.com,555-0151,15,250.00,0.15,3187.50
+2024-02-20,East,Office Supplies,Notebook Pack,Charlie Brown,Matthew Thompson,mthompson@edu.org,555-0168,100,15.00,0.05,1425.00
+2024-02-24,West,Electronics,Wireless Headphones,Diana Prince,Hannah Garcia,hgarcia@firm.com,555-0193,20,150.00,0.00,3000.00
+2024-02-28,North,Furniture,Ergonomic Stool,Alice Smith,Joshua Martinez,jmartinez@blog.io,555-0105,7,180.00,0.10,1134.00
+2024-03-03,South,Electronics,4K Monitor,Bob Jones,Ashley Robinson,arobinson@shop.com,555-0119,6,450.00,0.05,2565.00
+2024-03-08,East,Office Supplies,Mechanical Keyboard,Charlie Brown,Andrew Clark,aclark@news.net,555-0172,12,110.00,0.00,1320.00
+2024-03-12,West,Office Supplies,Ergonomic Mouse,Diana Prince,Elizabeth Rodriguez,erodriguez@portal.org,555-0138,30,45.00,0.10,1215.00
+2024-03-16,North,Electronics,Laptop Pro,Alice Smith,Joseph Lewis,jlewis@cloud.com,555-0161,4,1200.00,0.00,4800.00
+2024-03-20,South,Furniture,Standing Desk,Bob Jones,Samantha Lee,slee@startup.io,555-0149,4,600.00,0.05,2280.00
+2024-03-25,East,Electronics,Smartphone X,Charlie Brown,Ryan Walker,rwalker@enterprise.com,555-0186,7,800.00,0.10,5040.00
+2024-03-29,West,Furniture,Office Chair,Diana Prince,Brandon Hall,bhall@business.com,555-0125,10,250.00,0.00,2500.00
